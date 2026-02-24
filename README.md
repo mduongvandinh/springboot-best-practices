@@ -286,7 +286,7 @@ Danh sách kiểm tra nhanh.
 
 | Skill | Vai trò | Patterns | Link |
 |-------|---------|:--------:|------|
-| Engineering Failures | **Reactive** — phát hiện lỗi | 137 | [GitHub](https://github.com/mduongvandinh/engineering-failures) |
+| Engineering Failures | **Reactive** — phát hiện lỗi | 137 | [GitHub](https://github.com/mduongvandinh/engineering-failures-bible) |
 | **Spring Boot Best Practices** | **Proactive** — đề xuất chuẩn mực | 174 | [GitHub](https://github.com/mduongvandinh/springboot-best-practices) |
 
 Nên chạy **cả hai** để có đánh giá toàn diện nhất cho dự án Spring Boot.
@@ -307,3 +307,4 @@ Tự do sử dụng và phân phối.
 ## Tác giả
 
 - GitHub: [@mduongvandinh](https://github.com/mduongvandinh)
+
